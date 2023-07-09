@@ -1,0 +1,73 @@
+body {
+  height: 100%;
+  width: 100%;
+	/*background: #616161;*/
+	color: #f8f7f7;
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 92%, rgba(35,39,40,1) 100%); 
+}
+.container {
+	width: 70%;
+	margin-left: 10%;
+}
+a {
+	text-decoration: none;
+}
+.btn {
+	background: transparent;
+	border: solid 1px whitesmoke;
+	border-radius: 5px;
+	color: whitesmoke;
+	padding: 5px 10px;
+	cursor: pointer;
+	text-decoration: none;
+	transition-duration: 0.2s;
+}
+.btn:hover {
+	background: whitesmoke;
+	color: black;
+}
+.btn.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.textinput {
+	background: transparent;
+	border: double 1px whitesmoke;
+	border-radius: 10px;
+	color: whitesmoke;
+	outline: none;
+	transition-duration: 0.2s;
+}
+.textinput:focus {
+	border: double 1px blue;
+}
+progress {
+	opacity: 0;
+}
+.progress-container {
+  position: relative;
+  display: inline-block;
+  background: transparent;
+  height: 20px;
+  border-radius: 6px;
+  overflow: hidden;
+	border: solid 1px whitesmoke;
+	
+}
+:root {
+	--progress-bar-value: 0%;
+}
+.progress-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: var(--progress-bar-value);
+  background: white;
+}

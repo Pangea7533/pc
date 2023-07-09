@@ -1,0 +1,869 @@
+{
+	"Pangea7533": {
+		"pubkey": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAorxqQO8+zMF62ZClBiuUBA7s78pf1ZTOAinO37O/5mpUUVD0yzmI3OZxbvminwFAIAqUlCA9hmNs/k7fKFlRPDwtniXRYHiPORmqDkaUBhuNOuV2bKMSmP7JU+ZGcG/Y6AQQjJJA9CzhKcgll69blIV2kyJ6MRf15fut7R6zsh85VXrKu1Yyjtfpw7RlcPPhkZ0ivGy0dxE4GgwRL4tlVotPm8dAjt9skGBjuX1eQZqt8Ft2ieTJaqOVhP0S3fwbxYBEsDhocvewZIFAgNQKzQjJK5jquNiCugDtR8WmicwLxqkwR+aflaIUwx3IFKof1tdroR34JUjBx/0fSSR2HZH422/RWr7/T8CpRuhGKfYK5Q3Pjon4znptJMlxcz/Es6lO950y8tNIQc9xPFCIrWCGGNIPP0TyoaggYdmNJLn2PxU0ZUysIPquFtlD07+Id2wCMcmJ66q06dagqKnQ8tMUJtuszY8Qk4GQxMQXZjVTnxGZAe+5uKN80HXsup97FKpfSowVz237iTiQUtm3IfM9VU5vj61oNobgVriTuCZaroxhcRq/TKcIP1OCPhrQ3zZgteZwvYWxeBEp87TCtrm7LvknJF33Lpv2oRdE+7uF+KiLO2Uh8gkpaRzVkF8RUbk0yw+TfQBtIyHqKgPm/Wt31hjUW9ItAHNfM/Nv350CAwEAAQ==\n-----END PUBLIC KEY-----\n",
+		"secret": "b4256add1d632edd06d9d15f49be0a2ae262fd16df69e20ea132fd7f72c574dd",
+		"sales": [
+			{
+				"money": 10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688393498367,
+				"token": "03072788d87781e30a1f555c1b09fb7dd27d808a73fc894741f2816c53fd40d5",
+				"description": "ddos attack"
+			}
+		],
+		"transactions": [
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301600248,
+				"token": "PLACE-35d4dfed3f7709f2f0bd072aaac565f49022d0a1e48bdfdb11e5f9ce22b6b78b",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301601184,
+				"token": "PLACE-c87ec34400edcd2547b99534d7e28e956372bb877777af2d959807d7c29204d9",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301602319,
+				"token": "PLACE-64ef67c99f7b4b8f557938ac51c98b9fcd0d144d0681323ad308104b0c83c301",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301603271,
+				"token": "PLACE-d1dbf8eeb706dcfffc6628e02de3b8d1e9477a619c0ab4b5a63a64741157e6f9",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301604369,
+				"token": "PLACE-c7af15f68277f62d711ee05f8497f34a8716a472e5e66f5fb71f98ddec7c1575",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301605359,
+				"token": "PLACE-72fab1a36366b4cc279b99bfa55002307a6a54524574252f205f06b7f2e2005b",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301606694,
+				"token": "PLACE-848606cfb32a5aed85519afd8a30e18fc69b0bb5d2094e13059119baa50846c1",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301607790,
+				"token": "PLACE-a8d348f0d92658e74d52ffa0893d7daebc1fdea8232c1be179e9936411829baa",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301608954,
+				"token": "PLACE-c436ea25d0fc492daa2e18e3040df3d8a175c854b0f873ef10e03c18f497d3c0",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301609934,
+				"token": "PLACE-cb51569c9f776cc3a82d1bb7d1d6e63b2c7f5c2f6146a8b3257c3ab031a24c78",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301611000,
+				"token": "PLACE-bb13d649b919855ec4a95c719b1e4da1bde1c36aa433388613f058fbbab84f43",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301611968,
+				"token": "PLACE-8461ea702b419077b07092a74d6b7f24b20b8604cd3540814c16d926d2f8d9b0",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301613089,
+				"token": "PLACE-0260c88325be0e8abaf9bdae64ebb67e858c43a2f1a889ebe8098b10d2c2650e",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301614320,
+				"token": "PLACE-049c8ab55b370b67abc252248352a5f367e7e6d0434ff28856dc71d6048a3897",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301615724,
+				"token": "PLACE-013573bcfdbf4b40773c30ad0658087c32e7ffb029d56cfbff0e2587e5e08489",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301617264,
+				"token": "PLACE-b746f8ed7858e23355dd4881ca3835eb8d4e24b1bf922b586883004b57a09af1",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301618402,
+				"token": "PLACE-81286d4be6ce96c16a58c1c9d98fd8cfb21c0308f9d9ef7b5e8d08b9ef8f7f74",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301619606,
+				"token": "PLACE-e73c8a05ed6ae5476b57ea715061f6c7cbc14dc7401391df60090cd60c5a4e4b",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688301620850,
+				"token": "PLACE-ee37ab301b2867b6e717b2b0d10036a2828757f445d9946b3f6a172cf982f2bf",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": -1,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688348735100,
+				"token": "acaf1cbb450e7b84e7e0967d46d1422d7235af34d834245d763873fd8d2a71c5",
+				"description": "ddos"
+			},
+			{
+				"money": 1,
+				"sender": "dummy",
+				"recipient": "Pangea7533",
+				"timestamp": 1688348920970,
+				"token": "e43db1105e23098ed2234535826bcb8e511ba3202192a14bc90fb86e917060d1",
+				"description": "ddos"
+			},
+			{
+				"money": 1,
+				"sender": "dummy",
+				"recipient": "Pangea7533",
+				"timestamp": 1688349029059,
+				"token": "e45205ff220c169f316c92a8fdbb1748208b9035b7759bbd1e864a499bda4b72",
+				"description": "ddos"
+			},
+			{
+				"money": -10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688362086206,
+				"token": "df9349e65c60e4271486ca791cd2f3cbae7234742fbd0503ad1a7f27a23aaee4",
+				"description": "ddos attack"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169076,
+				"token": "MINE-bf931bb462b94db14a4070a4b1c70585fbd3272527e541230d5cdf3ef4274170",
+				"description": "Mined h67lu75sluampnYF4IMDnv+cpQz6DZMfInwl+KyTsM4= to nonce 23062 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169140,
+				"token": "MINE-21a009fa71e4abb2e161fb25a65b86aab8e69c8411586acf950309332a8ad17b",
+				"description": "Mined RRFFsu+czaoz9Gga1NXSyJeb7F+x3eEfBnXq00TRq0k= to nonce 3123 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169256,
+				"token": "MINE-e5078e9ca5b48870b5b835bbfdc1ee0148554773bc9293746c0b408b6276ce31",
+				"description": "Mined 9UQlgwPahBpO/jJSPcdyRFDdhVsVoYCFOMf2QR3y4kY= to nonce 24467 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169301,
+				"token": "MINE-b0b658655a9ca3343ce733350bc3070524413f9a69c1fab17aef2a4d133268df",
+				"description": "Mined YiV7wjPUB/p3/GMyCxjyFiXGHAGte8XWl+QZw5pjqAc= to nonce 29011 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169489,
+				"token": "MINE-e5ffaedff6c81614618e91db86283a1458a8cdbe580b4ea641fb8e07bcf39124",
+				"description": "Mined QPLNtYgCUMkwIW0+VAY+TTTA95C+Siuj+xvBMwyvH7I= to nonce 12816 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169603,
+				"token": "MINE-cb6b21af0ddc1a257e2119b2b7e4580bc475052bf485522f1155b2663d4c0e0b",
+				"description": "Mined kyTWwRwQmGc+LetOpssXSx9r07AcN7L1EXA1Ik9Ypwg= to nonce 11893 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169686,
+				"token": "MINE-0ff84ca27a79415e1cdd306b95db766a926f9ea01188b30031270c17fcbb7caf",
+				"description": "Mined +kMScz5JiR/C7k1xNnVUCPp0V20guFB/EgvovCVyiD0= to nonce 3179 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169726,
+				"token": "MINE-f94822bc8f6c0a3223fbe5bd30940361f5d4c027ef85408b62e74e5cbd870aa5",
+				"description": "Mined ttnM5CABpNqCco82A8H8s0jYkwrlcRzltgS1U434/GY= to nonce 55266 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169782,
+				"token": "MINE-7b7864b6c773c6ba770d9954a22486d32f390310294610bfa2b06111c2af8db5",
+				"description": "Mined TSuNur6tcnZ5EWhtkg4tRCmuVzzg7svOorymwO9e4rA= to nonce 17433 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362169898,
+				"token": "MINE-35e320004a4a75b626147a6655911c20bed9ca35d9343c9d741271595bef98a5",
+				"description": "Mined N/IK81DyE6irhYvc5T93xHHV2LR9KPztasS08b+3bQs= to nonce 63870 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362170233,
+				"token": "MINE-d830dbc35cc1cd8f26dca7ec3585400e01dc8b31be4e646fada78bd17a7ebee9",
+				"description": "Mined xTDPGiEDSRShibedcd5+ZVI8A5x5YBoViyTdSFiPkqQ= to nonce 77200 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362170239,
+				"token": "MINE-43bc180e142838db21d74a2b946ff5eec202ab0015087195b287cf699b108e3a",
+				"description": "Mined hIsF1Do9ftOd35b7N62MggDoQwF06P+ICwJ3+XMYcQE= to nonce 15364 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362170284,
+				"token": "MINE-a17aeec57352236a6a199bb12447d538070d89e5ef490d318da6800e8b779881",
+				"description": "Mined tzoqpG5YadjZqseNGIysvQj/Zt6EZDE8GBFgns0w9Cw= to nonce 2238 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362170520,
+				"token": "MINE-eeddacd63a11a9d184812a02b2e16f3cf0c983c3540f9289edbc52068be82593",
+				"description": "Mined 6NydWfg9h8atbX5aaMtiLMG50rt5k2DM1wBH2WVb9Ww= to nonce 73750 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362170570,
+				"token": "MINE-56cb6b5e729c40c5e377c6b5d73d58c2a5384120f5e3b90dafc30812942bd38a",
+				"description": "Mined DDgBAL25d9jN3h1d0wFgU+o8g6uvGC0/QZetnJQ+LX4= to nonce 31972 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362170621,
+				"token": "MINE-baa88830b7a4e51cbceb634f13ad0dd543c48a9ebb5785d19822146d4e903d17",
+				"description": "Mined cCGfLKh/Q5qayymgS5rfb41v4hkupHOLS/1pG+J9MnI= to nonce 40008 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362170818,
+				"token": "MINE-d8d4fc1fba61a21666c77937c8880ace013fe811f9a15acb40824a18c6f77467",
+				"description": "Mined UQX8KPoRd5Pgo7q78INeD4f1oox/4mVG9jMSBXk+KEU= to nonce 14057 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362170978,
+				"token": "MINE-5c347374e89e983b764ad6b0aec096b9c0ccaa97a205d20653604474ea8273b9",
+				"description": "Mined 8AMgcpA5CyGTChAHyHZPSZTHpKrHSNC7bSSpTzel6UU= to nonce 14105 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362171041,
+				"token": "MINE-96db8166f83b69f281958aa8df0f9792f78c98a59188e70097c66b679790babc",
+				"description": "Mined OL1mu2mNdnC++XIX7g5M6g5ishO0ryXNwLqVJGT4vgA= to nonce 20723 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362171086,
+				"token": "MINE-a0f31ff969f79fdbadf3c7239099cda4da618d6405b0455aaf81f8104cf59f2d",
+				"description": "Mined QC1GdTiNUsuHW/dne96TyD/bvHexfDBo+Elg3pRiLjs= to nonce 39933 with difficulty 4"
+			},
+			{
+				"money": 0.04,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688362205365,
+				"token": "MINE-5e2f982d1a434bec31ff91a7a98df0aa3db442c3a875d16db821eeaaaace7422",
+				"description": "Mined sbmVcxSH+BjcGaX2C00bWcDzbWKLQbitVEr1Q7l663U= to nonce 64483 with difficulty 4"
+			},
+			{
+				"money": 100,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688392553750,
+				"token": "DAILY-1fc5a79240090eb8e4fb05c4da3f8b19d506eedfdbb4c41ed7dfdf4877d86832",
+				"description": "Daily bonus for using PCCurrency."
+			},
+			{
+				"money": -10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688393445545,
+				"token": "34e9e0d329010a87587ff2d755cb36016373c0e1207ffa66fa586f39b04d869f",
+				"description": "ddos attack"
+			},
+			{
+				"money": -10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688393498398,
+				"token": "03072788d87781e30a1f555c1b09fb7dd27d808a73fc894741f2816c53fd40d5",
+				"description": "ddos attack"
+			},
+			{
+				"money": 99999,
+				"sender": "god",
+				"recipient": "Pangea7533",
+				"timestamp": 1688393498398,
+				"token": "03072788d87781e30a1f555c1b09fb7dd27d808a73fclmao16c53fd40d5",
+				"description": "I am god"
+			},
+			{
+				"money": -25,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688394370952,
+				"token": "ca1e86406dbde54d8cc4e71e273189164f53c854f2e9275e69f33ff8cc9c1c0c",
+				"description": "Hacked miner"
+			},
+			{
+				"money": -10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688394390833,
+				"token": "cf5503a3863a05f218ab16f12d104dd00660f94cf84fa56198d24a91d8618a0a",
+				"description": "ddos attack"
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688439245893,
+				"token": "PLACE-e19d0e02d8fc3ccfe2de2c08e74459b7a80f47224804ee922946613f5309550e",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688439262749,
+				"token": "PLACE-05fa95a5d6f87f67954220a5fae3d480559628df92a43666f4e18026dfd56ad8",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688439292559,
+				"token": "PLACE-150401210e6b659ac990ae08de0ecf908b59967252a2a95480728d8effaeccde",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688439307326,
+				"token": "PLACE-a7ee185851a811d36878a589fc0bb8b4c4c235321fe7ed4515b05c4e10d1a77a",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688439320582,
+				"token": "PLACE-06096420b2116aa1e9b9edae415e6680c2475de18424138b098f273b849d06f6",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688439324185,
+				"token": "PLACE-5dae052d1c9c9dcc976d792bdff07ce4ebe1e34309cdd786e8f5a00ce9eab78b",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688439327996,
+				"token": "PLACE-4d04598fba3ce2ff60a32144f99ec3da81a292a0a8474e303843ae008843d0ef",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688439331135,
+				"token": "PLACE-5fd994afbd78fcc2e4f827836eb2fffdac6a5e84fec126f9991e6d47f5ecc865",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688439334102,
+				"token": "PLACE-93c083be03c768470b4690e46ca8770e2b5473bfc033df408c917b77ae002020",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 100,
+				"sender": "system",
+				"recipient": "Pangea7533",
+				"timestamp": 1688595694892,
+				"token": "DAILY-b1ec16283030e103e28309ce17eac1a7d9e377ecb4957e396bcb6c2f1144f718",
+				"description": "Daily bonus for using PCCurrency."
+			}
+		],
+		"lastLogin": 1688595694892,
+		"placeUsages": 0,
+		"miningDifficulty": 4
+	},
+	"dummy": {
+		"pubkey": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAlc3rMaCuBlh7dYnRzrYNle6wwidyHCIvIMuDTIaICPRUlLW3QrqWVT1GEhIlUZ/2KF83GW2t0dqhmECwCuZ9v3JmeVGwWLQV3LGO1YfWUnzZSwYX5rR5HyM7CptGMPNVRrNX0L3Z2FYdir2DWQ8xJmesWt5tbQigBiX5NO1e061EUilU9h/TzwKiv4NQGtGOD1SEQg6E31HZXqg6131C5DT4XRyhcPUgQCMlYk1pjS7U0HEfdvXYmAIyn7UnaonclHPhq2TFbpDxsYynqsx6aWAP9rRqkobBez0cItWGA1XRvHkeN2G4VzBFVulkOAR2cUEjUHbq9bBXPRZw93lJ8KHCsg++Z9gf1ZwKUdFENryms+OFnmTlDWhFMEYK9G3Sz2YMITX/A6CwWuEju3aEzp9ko5l3i+3hFzv06U1BvyFdrpBYnhoi7vOBcSExVRfI9X3u0zzcguWCJFf3yrKEFnQFp1yku3b0S06HcZ2/qwxxFwZLNuFgC3L4oxUCE1QeaUdkW4SBC2iH1K9SqrDVRXKMFQcX/Hc4AmLlZqWBwtgZ+OytYd8V4xgEdfMCghK30w5Mt3622V0h5BBK7Pq6nOjtXO30aBqzyVlhAxp5ZX4iSm41cwmc+T9WvEHM5XjIukaLh7oJ2WKJnpKpjY8nzJi+ZCRukjFUC186rbmqGCMCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+		"secret": "ae28a7687e7f3317bee18aef7bfc1e803aa39cfcd7affd5d1ada46db81f06a3d",
+		"sales": [
+			{
+				"money": 10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688393498367,
+				"token": "03072788d87781e30a1f555c1b09fb7dd27d808a73fc894741f2816c53fd40d5",
+				"description": "ddos attack"
+			},
+			{
+				"money": 25,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688394370938,
+				"token": "ca1e86406dbde54d8cc4e71e273189164f53c854f2e9275e69f33ff8cc9c1c0c",
+				"description": "Hacked miner"
+			},
+			{
+				"money": 10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688394390816,
+				"token": "cf5503a3863a05f218ab16f12d104dd00660f94cf84fa56198d24a91d8618a0a",
+				"description": "ddos attack"
+			}
+		],
+		"transactions": [
+			{
+				"money": 1,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688348735100,
+				"token": "acaf1cbb450e7b84e7e0967d46d1422d7235af34d834245d763873fd8d2a71c5",
+				"description": "ddos"
+			},
+			{
+				"money": -1,
+				"sender": "dummy",
+				"recipient": "Pangea7533",
+				"timestamp": 1688348920970,
+				"token": "e43db1105e23098ed2234535826bcb8e511ba3202192a14bc90fb86e917060d1",
+				"description": "ddos"
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688348990339,
+				"token": "PLACE-1cb2edae4312113b70c30221aceccf1204d93112a4471f17f2d053886537452f",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688348991691,
+				"token": "PLACE-68f6d92b66e359ff3cac6c41b45dcc65a12da951e412430c49a8af3eb7ecb1d2",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688348992650,
+				"token": "PLACE-9c1102a515b5dbae19d0f5fcef1fee74b2bef973d7727b34cad2a322da0791e1",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688348993587,
+				"token": "PLACE-43b774c608a157d3da49e0d69413d1df0e75b5ab9871c43fa378daf3e8fcae53",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688348994711,
+				"token": "PLACE-0101fe50bdd502f8cdf10ebacece99fa3311b818f3b05a774feada26cfc146e5",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688348995707,
+				"token": "PLACE-0158daabcfc8d03956012d1c96f8f81e8dc2925602b8a4408d12757105df7db9",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688348996640,
+				"token": "PLACE-556b913d416aeefc7c6a9a52a8f96c5e3f832424455e407aff1b38161df3290c",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688348997524,
+				"token": "PLACE-0d45f04a7cc30b4d02ec1a3dd1b235ec9c27cfe7518b60ae93446331d3d0960a",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688348998510,
+				"token": "PLACE-c27008ba23c314250c01a18f0f995f18df882f8a324bac851be743422ecf3736",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": -1,
+				"sender": "dummy",
+				"recipient": "Pangea7533",
+				"timestamp": 1688349029059,
+				"token": "e45205ff220c169f316c92a8fdbb1748208b9035b7759bbd1e864a499bda4b72",
+				"description": "ddos"
+			},
+			{
+				"money": 0.5,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353653808,
+				"token": "PLACE-d461ef6375e987de4b12f0ac096527277984189faa7dcdd43b31ef4b43c9169e",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353737621,
+				"token": "PLACE-7af14e985a3c728288dcbe575142cbafb2f2f49b5937b34bec82c995722d447f",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353740098,
+				"token": "PLACE-18ba049773afa4f36c781d866f40cb8d5bf567affda7b343b25dc0fd43055318",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353742545,
+				"token": "PLACE-51b6033f823cdaad1c35584cdfe1e6bad46edcdc551c3a66b94af9491c3c32ae",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353745053,
+				"token": "PLACE-c0b3c50c42a85df8a96cb8e4f8285b79c780617f7c4e4723a88bf26a5ef4a777",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353747275,
+				"token": "PLACE-cc1c38632c3bf3bcfbb84cdb8f9427566014d492294a3cd794f253dfc3544997",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353750984,
+				"token": "PLACE-3553c5ce7c4c1f08c08de169c881d3a754a878781792a2b31c8b3af445bea7b2",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353754331,
+				"token": "PLACE-f35e06a7f9aa5fe4c7a996905ced136eb772c07e67c0ba11eb37b6a37b593f88",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353756979,
+				"token": "PLACE-8f6a257cb2015f852d793a87dc8cddb3b786d4d85e0df84d316470fb380cc0e6",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353759362,
+				"token": "PLACE-b8869769afe9f5d6a9196441592aae36ed601ea6112a7809d3104dc60ed66ebc",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688353761636,
+				"token": "PLACE-b710e6f397e8b86a5c37e79e0f3cdd5c3e8446f51aadd7f1dc2857166ad7480e",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354307704,
+				"token": "PLACE-03ce9d48f61ec9fc8962f682bed335bc336141fea35ac698db1aaaa939c7b98a",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354309967,
+				"token": "PLACE-a83cbf35918dc3f79ed49545a6e25f12516534ab957c931ca907ca09ea2e8ced",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354312903,
+				"token": "PLACE-5b3dfc83d2ac36e2ede3d690ea383b87363c6fc519f44def95187dcea8e81171",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354314943,
+				"token": "PLACE-c4f799d94dfceeb0d0b23c7cbd9098a3342bef2a7fda3fdac6473ed0439fc735",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354316882,
+				"token": "PLACE-9957e2bbd3cc404c8b8470a08d793a79a0bf555848208981c4830a8163d13fca",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354319040,
+				"token": "PLACE-449fffdc1927b569c207de0903ca3b11c6055f4d4d0ed6a6a62648c9936a2169",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354320976,
+				"token": "PLACE-cfe840965f619ec1c2438d4d82727893d118d269578a1148868a9afed49f0d67",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354322946,
+				"token": "PLACE-1538bbc79e91c536ac6f245fcca37ba0de2b0893130f49704ca540d926dc7905",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354324863,
+				"token": "PLACE-3b60b4de02421cf99549fddbe94adddc5a9fd92e5049551d50b30fe887972093",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354327024,
+				"token": "PLACE-b514cf8332ac7c3173a86b0915388ec65a079d5e1fe20e20891811d28a0cc98b",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354328961,
+				"token": "PLACE-f8adb8e9f0ada012986c5f4e225b212f50f7f7fe0952550bf6aac266d62bf760",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 1,
+				"sender": "system",
+				"recipient": "dummy",
+				"timestamp": 1688354330859,
+				"token": "PLACE-53fb3d43afbe2c91fdaf7dc5d76c6bcef7dc74886cb4051fe2aa099df0b1d145",
+				"description": "Usage of PCCurrency Place - a place for crazy ideas of users."
+			},
+			{
+				"money": 10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688362086206,
+				"token": "df9349e65c60e4271486ca791cd2f3cbae7234742fbd0503ad1a7f27a23aaee4",
+				"description": "ddos attack"
+			},
+			{
+				"money": 10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688393445545,
+				"token": "34e9e0d329010a87587ff2d755cb36016373c0e1207ffa66fa586f39b04d869f",
+				"description": "ddos attack"
+			},
+			{
+				"money": 10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688393498399,
+				"token": "03072788d87781e30a1f555c1b09fb7dd27d808a73fc894741f2816c53fd40d5",
+				"description": "ddos attack"
+			},
+			{
+				"money": 25,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688394370952,
+				"token": "ca1e86406dbde54d8cc4e71e273189164f53c854f2e9275e69f33ff8cc9c1c0c",
+				"description": "Hacked miner"
+			},
+			{
+				"money": 10,
+				"sender": "Pangea7533",
+				"recipient": "dummy",
+				"timestamp": 1688394390833,
+				"token": "cf5503a3863a05f218ab16f12d104dd00660f94cf84fa56198d24a91d8618a0a",
+				"description": "ddos attack"
+			}
+		],
+		"lastLogin": 1688348663718,
+		"placeUsages": 32
+	},
+	"marketplace": {
+		"services": [
+			{
+				"price": "10",
+				"description": "ddos attack",
+				"seller": "dummy"
+			},
+			{
+				"price": "25",
+				"description": "Hacked miner",
+				"seller": "dummy"
+			}
+		]
+	}
+}
